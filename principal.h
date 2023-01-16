@@ -2,6 +2,8 @@
 #define PRINCIPAL_H
 
 #include <QMainWindow>
+#include <QPainter>
+#include <QPointF>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Principal; }
